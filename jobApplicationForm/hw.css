@@ -1,0 +1,83 @@
+body{
+    background-image: url('leaves.png')
+}
+
+p{
+    font-family: "Arial"; color:cornflowerblue; font-weight: bold;
+}
+
+h2{
+    color: greenyellow;
+    font-size: 70px; 
+    font-family: "Verdana";
+    margin-bottom: 2px;
+    float:middle;
+    text-align:center;
+}
+
+li{
+    float:middle;
+    background-color: blanchedalmond
+}
+
+#Header{
+    width: 300px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px burlywood;
+    background-color: cornflowerblue; 
+    border: 1px solid teal ; 
+    padding-bottom: 25px;
+}
+
+#Header h1{
+    font-size: 40px;
+    font-family: "Arial";
+    color: mediumpurple;
+    font-weight: bold;
+}
+
+ul{
+    padding-left: 0px;
+    float:middle;
+}
+
+a{
+    color: darkgoldenrod;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+label{
+    color: darkorange;
+    font-size: 20px;
+}
+
+fieldset{
+    color: rgba(0, 4, 250, 0.685);
+    font-weight: bold;
+    font-size:20px;
+}
+
+textarea{
+    background-color: thistle;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border:dotted 5px black;
+    text-align: center;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+input{
+    float: middle;
+}
+
+legend{
+    float: middle;
+    color: honeydew
+}
